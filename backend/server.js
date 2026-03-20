@@ -22,6 +22,7 @@ app.use(cookieParser());
 const corsOptions = {
   origin: [
     "http://localhost:5173",
+    "https://picx-zxny.vercel.app",
     "https://picx-zxny.vercel.app/",
     "https://picx-kzg6.onrender.com",
     "https://picx-git-main-suryakant-dwivedis-projects.vercel.app",
